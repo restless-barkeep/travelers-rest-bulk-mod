@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <AssemblyName>rbk-tr-FishingChanges</AssemblyName>
     <Description>Changes to fishing: short non-record fish catch animation and option to skip fishing minigame</Description>
-    <Version>0.0.8</Version>
+    <Version>0.0.9</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
     <BaseOutputPath>..\output</BaseOutputPath>
